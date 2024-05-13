@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url('imagenes/Imagen\ de\ WhatsApp\ 2023-08-27\ a\ las\ 19.13.40.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(161, 161, 161, 0.7);
+    border-radius: 10px;
+}
+
+h1, h2, h3 {
+    margin-top: 0;
+    color: #000000; 
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section h2 {
+    border-bottom: 2px solid #fff; 
+    padding-bottom: 5px;
+}
+
+.section p {
+    margin: 5px 0;
+}
+
+.section_1 {
+    text-align: center;
+}
+
+.section_1 img {
+    width: 200px; 
+    border-radius: 50%; 
+    margin-bottom: 20px;
+}
+
+.section_2 {
+    text-align: justify; 
+}
+
+.section_3,
+.section_4,
+.section_5,
+.section_6,
+.section_7 {
+    color: #fff; 
+}
+
+.section_3 p,
+.section_4 p,
+.section_5 ul,
+.section_6 ul,
+.section_7 ul {
+    list-style-type: none; 
+}
+
+.section_4 ul,
+.section_5 ul,
+.section_6 ul,
+.section_7 ul {
+    padding-left: 0; 
+}
