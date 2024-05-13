@@ -1,0 +1,88 @@
+input[type="text"]{
+    width: 200px;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #fa9c9c;
+    border-radius: 5px;
+    box-sizing: border-box; 
+    font-size: 16px;
+}
+
+input[type="number"] {
+    width: 80px;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #f09a9a;
+    border-radius: 5px;
+    box-sizing: border-box; 
+    font-size: 16px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #d99df1;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+}
+
+p {
+    color: #000000;
+    line-height: 1.5;
+}
+
+.mapouter {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#Formulario {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #00ffee;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #7dcbfa;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #458ba0;
+}
+
+#answer {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
