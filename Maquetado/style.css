@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+html
+{
+    background-color: black;
+    border-style: solid;
+    border-width: 2px;
+
+}
+body
+{
+    width: 750px;
+    height: 750px;
+    margin: auto;
+    background-color: rgb(0, 255, 255);
+    border-style: solid;
+    border-width: 2px;
+}
+header
+{
+    width: 750px;
+    height: 250px;
+    background-color: rgb(134, 112, 233);
+    border-style: solid;
+    border-width: 2px;
+}
+nav
+{
+    width: 750px;
+    height: 50px;
+    background-color: rgb(0, 92, 128);
+    border-style: solid;
+    border-width: 2px;
+}
+main
+{
+    width: 750px;
+    height: 400px;
+    background-color: rgb(215, 20, 20);
+    border-style: solid;
+    border-width: 2px;
+}
+footer
+{
+    width: 750px;
+    height: 50px;
+    background-color: rgb(0, 255, 191);
+    border-style: solid;
+    border-width: 2px;
+}
+section#banner
+{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom: .5%;
+    width: 500px;
+    height: 230px;
+    float: left;
+    background-color: rgb(24, 150, 223) !important;
+    border-style: solid;
+    border-width: 2px;
+}
+section#logo
+{
+    margin-top: 1%;
+    margin-right: 1%;
+    width: 220px;
+    height: 230px;
+    float: right;
+    background-color: rgb(129, 37, 187);
+    border-style: solid;
+    border-width: 2px;
+}
+article
+{
+    margin-top: 1%;
+    margin-left: 1%;
+    width: 450px;
+    height: 380px;
+    float: left;
+    background-color: rgb(255, 234, 0);
+    border-style: solid;
+    border-width: 2px;
+}
+aside
+{
+    margin-top: 1%;
+    margin-right: 1%;
+    width: 270px;
+    height: 380px;
+    float: right;
+    background-color: rgb(23, 199, 211);
+    border-style: solid;
+    border-width: 2px;
+}
